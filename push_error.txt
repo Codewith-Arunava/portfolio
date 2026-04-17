@@ -6,7 +6,7 @@ error: GH008: Your
 push referenced at 
 least 1 unknown Git 
 LFS object:         
-At line:1 char:1
+At line:1 char:1 
 + git push -u 
 origin main > 
 push_error.txt 2>&1
