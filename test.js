@@ -4,7 +4,7 @@ clickElement.addEventListener("click", () => {
   if (endListener) {
     endListener = false;
   } else {
-    endListener = true;
+    endListener = true; 
   }
 });
       
