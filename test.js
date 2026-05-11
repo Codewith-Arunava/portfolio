@@ -5,7 +5,7 @@ clickElement.addEventListener("click", () => {
     endListener = false;
   } else {
     endListener = true; 
-  }
+  } 
 });
       
 video.addEventListener("ended", () => {
